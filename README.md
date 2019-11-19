@@ -19,4 +19,8 @@ you need to modify dependency path in CmakeList file.
 
 test hardware：1080Ti
 
-![](./data/res.jpg)
+![](./result/result.jpg)
+
+## Note
+
+当第一次运行的时候，可能会出现模型转换错误的问题，不过没有问题，再次运行即可。
