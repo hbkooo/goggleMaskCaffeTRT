@@ -11,7 +11,7 @@ $ mkdir build
 $ cd build/
 $ cmake ../
 $ make
-$ ./retinaface img_path
+$ ./goggleMask [classify|detect] [path/image.jpg | path/to/filelist.txt]
 ```
 you need to modify dependency path in CmakeList file.
 
