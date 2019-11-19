@@ -24,6 +24,10 @@ test hardware：1080Ti
 
 ![](./result/result.jpg)
 
+## Package
+
+编译成功后在 build 目录下会生成打包的 libgogglemask.so 动态库，只需要使用 goggleMask 目录中的 [goggleMaskAPI.h](goggleMask/goggleMaskAPI.h) 头文件即可，在外部项目中使用。
+
 ## Note
 
 当第一次运行的时候，可能会出现模型转换错误的问题，不过没有问题，再次运行即可。
